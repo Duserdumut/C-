@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\bin\Debug\net6.0\Uppdrag2.cs.exe
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\bin\Debug\net6.0\Uppdrag2.cs.deps.json
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\bin\Debug\net6.0\Uppdrag2.cs.runtimeconfig.json
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\bin\Debug\net6.0\Uppdrag2.cs.dll
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\bin\Debug\net6.0\ref\Uppdrag2.cs.dll
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\bin\Debug\net6.0\Uppdrag2.cs.pdb
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.AssemblyInfo.cs
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.dll
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\ref\Uppdrag2.cs.dll
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.pdb
+C:\Users\danie\source\repos\Uppdrag2.cs\Uppdrag2.cs\obj\Debug\net6.0\Uppdrag2.cs.genruntimeconfig.cache
