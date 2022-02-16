@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\bin\Debug\net6.0\uppgift 2 bilaffären.exe
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\bin\Debug\net6.0\uppgift 2 bilaffären.deps.json
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\bin\Debug\net6.0\uppgift 2 bilaffären.runtimeconfig.json
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\bin\Debug\net6.0\uppgift 2 bilaffären.dll
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\bin\Debug\net6.0\ref\uppgift 2 bilaffären.dll
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\bin\Debug\net6.0\uppgift 2 bilaffären.pdb
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.AssemblyInfo.cs
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.dll
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\ref\uppgift 2 bilaffären.dll
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.pdb
+C:\Users\danie\source\repos\uppgift 2 bilaffären\uppgift 2 bilaffären\obj\Debug\net6.0\uppgift 2 bilaffären.genruntimeconfig.cache
